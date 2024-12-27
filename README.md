@@ -1,6 +1,15 @@
 # Campus das Coisas - IoT architecture for IPS campus
+<img src="images\KerlinkWirnetiStation.jpeg" alt="Gateway Kerlink Wirnet iStation" width="300" height="300" style="border-radius:10px;">
+<div class="image-container">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LoRa-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LoRaWAN-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TheThingsNetwork-%232980b9%20">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TagoIO-%232980b9%20">
+  <img alt="Static Badge" src="https://img.shields.io/badge/AppInventor-orange">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SmartCampus-green">
+  <img alt="Static Badge" src="https://img.shields.io/badge/IoT-green">
+</div>
 
-<img src="images\KerlinkWirnetiStation.jpeg" alt="Gateway Kerlink Wirnet iStation" width="300" height="300">
 
 > IoT network based on LoRa communication for a smart campus.
 
@@ -11,24 +20,6 @@ Design and implementation of an IoT network on the Setúbal campus of the Polyte
 ## System architecture
 
 <img src="images\SystemArchitectureLoRaNetwork.png" alt="System Architecture LoRa Network" height="300">
-
-<div style="display: flex; gap: 10px; margin-top: 10px;">
-  <a href="https://example.com/technology1" style="text-decoration: none;">
-    <button style="background-color: #0078D4; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 14px; cursor: pointer;">
-      Technology 1
-    </button>
-  </a>
-  <a href="https://example.com/technology2" style="text-decoration: none;">
-    <button style="background-color: #FF5722; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 14px; cursor: pointer;">
-      Technology 2
-    </button>
-  </a>
-  <a href="https://example.com/technology3" style="text-decoration: none;">
-    <button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 14px; cursor: pointer;">
-      Technology 3
-    </button>
-  </a>
-</div>
 
 This system architecture aims to implement a high capacity gateway capable of managing a large network and connect it to a community network server like The Things Network, facilitating its use by users and preparing the implemented IoT network for many future applications.
 
