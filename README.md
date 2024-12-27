@@ -1,20 +1,16 @@
-# Nome do projeto
+# Campus das Coisas - IoT architecture for IPS campus
 
-<img src="images\KerlinkWirnetiStation.jpeg" alt="Gateway Kerlink Wirnet iStation" width="500" height="500">
+<img src="images\KerlinkWirnetiStation.jpeg" alt="Gateway Kerlink Wirnet iStation" width="300" height="300">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> IoT network based on LoRa communication for a smart campus.
 
-### Ajustes e melhorias
+### Introduction
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
+Design and implementation of an IoT network on the Setúbal campus of the Polytechnic Institute of Setúbal, with the aim of promoting research and development of IoT projects. The implementation of this network enabled the application of various devices and sensors throughout the campus, transforming it into a smarter campus. This IoT network is based on LoRa long-range communication and the use of cloud servers, which are open-source and accessible to the community. In order to test the network's potential and range, a commercial LoRa device was implemented and a prototype was developed for communication tests, which made it possible to build a coverage map for the campus and the surrounding area, with a maximum range of 17.5 km being obtained in the tests carried out.
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+## System architecture
 
-## 💻 Pré-requisitos
+<img src="images\SystemArchitectureLoRaNetwork.png" alt="System Architecture LoRa Network" width="300">
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
