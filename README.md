@@ -10,13 +10,27 @@ Design and implementation of an IoT network on the Setúbal campus of the Polyte
 
 ## System architecture
 
-<img src="images\SystemArchitectureLoRaNetwork.png" alt="System Architecture LoRa Network" width="300">
+<img src="images\SystemArchitectureLoRaNetwork.png" alt="System Architecture LoRa Network" height="300">
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<div style="display: flex; gap: 10px; margin-top: 10px;">
+  <a href="https://example.com/technology1" style="text-decoration: none;">
+    <button style="background-color: #0078D4; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 14px; cursor: pointer;">
+      Technology 1
+    </button>
+  </a>
+  <a href="https://example.com/technology2" style="text-decoration: none;">
+    <button style="background-color: #FF5722; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 14px; cursor: pointer;">
+      Technology 2
+    </button>
+  </a>
+  <a href="https://example.com/technology3" style="text-decoration: none;">
+    <button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 14px; cursor: pointer;">
+      Technology 3
+    </button>
+  </a>
+</div>
 
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+This system architecture aims to implement a high capacity gateway capable of managing a large network and connect it to a community network server like The Things Network, facilitating its use by users and preparing the implemented IoT network for many future applications.
 
 ## 🚀 Instalando <nome_do_projeto>
 
