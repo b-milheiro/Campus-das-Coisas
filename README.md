@@ -27,7 +27,8 @@ This system architecture aims to implement a high capacity gateway capable of ma
 ### fieldTester
 
 ### LoRaGrid
-> by Rúben André (MSc) <
+> by Rúben André (MSc)
+>
 This project aimed to develop an Internet of Things (IoT) framework for IPS, focusing on monitoring electricity consumption at the School of Technology of Setúbal, using a network of sensors with a LoRa interface. The primary focus of the implementation was the design of an automated and scalable network, making it easy and practical to add new sensors to the network. This project included the development of a web application where the data collected from the sensors is processed and displayed clearly and objectively to users, using tools for building charts and ensuring proper access control for data security. To achieve this, a LoRa sensor prototype was designed and connected to The Things Network server, which wirelessly sends the data to the final application. The application was built using the React framework and communicates with a database to fetch and update information according to user navigation. From this work, it was concluded that an alternative to The Things Network server is necessary to make the institute's platform independent of third-party services, as well as modifying the web application to enable remote control of the sensors.
 
 ## ☕ Usando <nome_do_projeto>
